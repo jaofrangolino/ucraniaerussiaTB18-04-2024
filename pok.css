@@ -1,0 +1,21 @@
+body {
+    background-image: url(band.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+article, h1
+{
+    max-width: 600px;
+    margin: 0 auto;
+    border: 2px solid #ffffff;
+    text-align: center;
+}
+
+.caixa
+{
+    max-width: 600px;
+    margin: 1pc;
+    text-align: center;
+}
